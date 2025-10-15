@@ -24,14 +24,14 @@ Rock, Paper, Scissors, Lizard, Spock
 
 Game Rules
 
-    1. The interactions between the choices are as follows:
+    The interactions between the choices are as follows:
 
-    2. Rock crushes Scissors and Lizard
+      1. Rock crushes Scissors and Lizard
 
-    3. Paper covers Rock and disproves Spock
+      2. Paper covers Rock and disproves Spock
 
-    4. Scissors cuts Paper and decapitates Lizard
+      3. Scissors cuts Paper and decapitates Lizard
 
-    5. Lizard eats Paper and poisons Spock
+      4. Lizard eats Paper and poisons Spock
 
-    6. Spock vaporizes Rock and smashes Scissors
+      5. Spock vaporizes Rock and smashes Scissors
