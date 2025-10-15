@@ -34,4 +34,4 @@ Game Rules
 
     5. Lizard eats Paper and poisons Spock
 
-Spock vaporizes Rock and smashes Scissors
+    6. Spock vaporizes Rock and smashes Scissors
