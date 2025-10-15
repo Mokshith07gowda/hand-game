@@ -3,7 +3,7 @@ Rock, Paper, Scissors, Lizard, Spock
        
   A Python terminal-based game that extends the classic Rock, Paper, Scissors game with Lizard and Spock options. Play against the computer and see who wins!
 
- Features
+  Features
  
       Play the extended version of Rock, Paper, Scissors.
 
